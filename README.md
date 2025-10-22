@@ -10,7 +10,7 @@
 
 ---
 
-### 👋 Hi, I’m **Salim Ouassou**
+### 👋 Hi, I’m **Salim**
 I’m a **Data Analyst** with a strong background in IT and a passion for uncovering insights that drive better decisions.  
 I enjoy transforming complex data into clear, actionable stories using tools like **Python**, **SQL**, and **Tableau**.  
 Currently expanding my skills in **machine learning** and **data visualization** while working on personal analytics projects.
